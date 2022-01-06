@@ -38,8 +38,8 @@ h1{
 .width-3-1{
     width: 35%;
     padding: 2%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
 
     border-radius: 5%;
 }
