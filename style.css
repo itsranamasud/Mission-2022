@@ -8,7 +8,7 @@ h1{
 .header-name-color{
     color: rgb(255, 196, 0);
 }
-.header-center{
+.text-center{
     text-align: center;
 }
 .broder-color{
@@ -66,4 +66,18 @@ h1{
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: 20%;
+}
+footer{
+    background-color: black;
+    padding: 10px 0px;
+}
+footer p{
+    text-align: center;
+    color: white;
+}
+.fotter-text{
+font-size: 40px;
+}
+.fotter-color{
+    color: rgb(255, 52, 52);
 }
